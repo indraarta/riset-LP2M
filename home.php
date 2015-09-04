@@ -1,1 +1,3 @@
-harus bisa
+<?php
+echo 'sholawat ala Rosulillah';
+?>
